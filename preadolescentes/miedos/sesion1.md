@@ -88,7 +88,3 @@ Preguntas:
 >Que nuestros miedos no nos limiten y podamos seguir teniendo una vida plena y cerca de Ti.
 >
 >**Amén**
-
-## Referencias
-
-[^1]: [Mt 14:25-32](./bibliografia.md#mateo-1425-32)
