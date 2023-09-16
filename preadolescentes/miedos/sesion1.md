@@ -1,6 +1,8 @@
 # La Negación de Pedro
 
-Contenidos:
+[Voler al índice de sesiones para Preadolescentes](../indice.md)
+
+## Contenidos:
 
 - [Texto evangélico](#texto-evangélico)
 - [Contextualización](#contextualización)
