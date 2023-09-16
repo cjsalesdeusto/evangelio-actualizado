@@ -24,4 +24,4 @@
 >
 >&emsp;—Tienes tan poca fe —le dijo Jesús—. ¿Por qué dudaste de mí? Cuando subieron de nuevo a la barca, el viento se detuvo.
 
-[Volver a la sesión](/preadolescentes/miedos/sesion1.md#la-importancia-de-pedro)
+[Volver a la sesión](./sesion1.md#la-importancia-de-pedro)
