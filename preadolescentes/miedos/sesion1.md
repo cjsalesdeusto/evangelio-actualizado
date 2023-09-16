@@ -1,5 +1,15 @@
 # La Negación de Pedro
 
+Contenidos:
+
+- [Texto evangélico](#texto-evangélico)
+- [Contextualización](#contextualización)
+  - [Puerta de la casa del sumo sacerdote](#puerta-de-la-casa-del-sumo-sacerdote)
+  - [La importancia de Pedro](#la-importancia-de-pedro)
+- [Actualización al siglo XXI](#actualización-al-siglo-xxi)
+- [Reflexión](#reflexión)
+- [Oración](#oración)
+
 ## Texto evangélico
 
 > Mientras tanto, Pedro estaba sentado afuera, en el patio, y una criada se acercó.
@@ -46,7 +56,7 @@ Muy probablemente, estos rasgos físicos son los que hicieron a Pedro no pasar d
 
 Pedro tiene su importancia en el Evangelio. No es cualquier Apóstol el que niega a Jesús, sino que es Simón Pedro, con todo lo que esto conlleva.
 
-La figura de Simón Pedro siempre ha ido atada a la figura de una persona normal, un pescador normal, mayor, quizás más empírico que teólogo. Una persona que pone a prueba en varios momentos su fe. Recordamos el pasaje de caminar sobre las aguas, donde reta a Jesús pidiéndole ir hacia él por encima del agua[^1]. Una persona muy segura de sí misma y un poco terca, como se puede ver cuando le niega a Jesús el limpiarle los pies o cuando confía tanto en sí mismo que le llega a decir a Jesús que morirá por Él y que nada iba a cambiar eso.
+La figura de Simón Pedro siempre ha ido atada a la figura de una persona normal, un pescador normal, mayor, quizás más empírico que teólogo. Una persona que pone a prueba en varios momentos su fe. Recordamos [el pasaje de caminar sobre las aguas, donde reta a Jesús pidiéndole ir hacia él por encima del agua](/preadolescentes/miedos/bibliografia.md#mateo-1425-32-volverpreadolescentesmiedossesion1mdla-importancia-de-pedro). Una persona muy segura de sí misma y un poco terca, como se puede ver cuando le niega a Jesús el limpiarle los pies o cuando confía tanto en sí mismo que le llega a decir a Jesús que morirá por Él y que nada iba a cambiar eso.
 
 También coge una postura de liderazgo con los apóstoles, hablando por ellos en varios momentos de los Evangelios, queriendo seguir a Jesús cuando este lo cuestiona en el momento de la multiplicación de los panes y los peces. Estas posturas, hablan de un Pedro humano, de un Pedro que tiene unas costumbres claras y que no es un tipo sencillo de convencer.
 
