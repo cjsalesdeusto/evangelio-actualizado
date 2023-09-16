@@ -81,4 +81,4 @@ Preguntas:
 
 ## Referencias
 
-[^1]: [Mt 14:25-32](./bibliografia.md#mateo-1425-32)
+[^1]: [Mt 14:25-32](./bibliografia.html#mateo-1425-32)
