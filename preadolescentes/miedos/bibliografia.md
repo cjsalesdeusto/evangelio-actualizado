@@ -4,7 +4,7 @@
 
 > A eso de las tres de la madrugada, Jesús se acercó a ellos caminando sobre el agua. Cuando los discípulos lo vieron caminar sobre el agua, quedaron aterrados. Llenos de miedo, clamaron:
 >
-> &emsp;«¡Es un fantasma!».
+> &emsp;—¡Es un fantasma!
 >
 > Pero Jesús les habló de inmediato:
 >
