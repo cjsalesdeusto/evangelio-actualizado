@@ -15,3 +15,5 @@ Muy sencillo, escoge tu etapa para acceder a los temas ya preparados.
 ### [Jóvenes (1º-2º Bachillerato)](/jovenes/indice.md)
 
 ### [Catecumenado](/catecumenado/indice.md)
+
+[Referencia](/preadolescentes/miedos/bibliografia.md#mateo-1425-32)
