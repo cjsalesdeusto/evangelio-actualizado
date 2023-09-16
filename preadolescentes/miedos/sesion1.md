@@ -14,29 +14,29 @@ Contenidos:
 
 > Mientras tanto, Pedro estaba sentado afuera, en el patio, y una criada se acercó.
 >
->&emsp; “Tú también estabas con Jesús de Galilea”, le dijo.
+>&emsp; —Tú también estabas con Jesús de Galilea— le dijo.
 >
 > Pero él lo negó delante de todos, diciendo:
 >
-> &emsp;“No sé de qué estás hablando”
+> &emsp;—No sé de qué estás hablando.
 >
 > Luego salió a la puerta, donde otra criada lo vio y dijo a los que estaban allí:
 >
-> &emsp;“Este estaba con Jesús de Nazaret”.
+> &emsp;—Este estaba con Jesús de Nazaret.
 >
 >El lo volvió a negar, jurándoles:
 >
-> &emsp;"¡A ese hombre ni lo conozco!”
+> &emsp;—¡A ese hombre ni lo conozco!
 >
 >Poco después se acercaron a Pedro los que estaban allí y le dijeron:
 >
-> &emsp;“Seguro que eres uno de ellos, se te nota por tu acento”.
+> &emsp;—Seguro que eres uno de ellos, se te nota por tu acento.
 >
 >Y comenzó a echarse maldiciones y juró:
 >
->&emsp;“¡A ese hombre ni lo conozco!”
+>&emsp;—¡A ese hombre ni lo conozco!
 >
->En ese instante cantó un gallo. Entonces Pedro se acordó de lo que Jesús había dicho: “Antes de que el gallo cante, me negarás 3 veces”. Y saliendo de allí, lloró amargamente.
+>En ese instante cantó un gallo. Entonces Pedro se acordó de lo que Jesús había dicho: —Antes de que el gallo cante, me negarás 3 veces—. Y saliendo de allí, lloró amargamente.
 
 ## Contextualización
 
