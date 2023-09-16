@@ -1,6 +1,6 @@
 # Ejemplo de sesión
 
-[Volver al índice de sesiones para Preadolescentes](insertar-enlace-aqui)
+[Volver al índice de sesiones de (insertar etapa)](insertar-enlace-aqui)
 
 ## Contenidos
 
@@ -38,3 +38,5 @@ Preguntas:
 >Insertar oración aquí.
 >
 >**Amén**
+
+[Volver al índice de sesiones de (insertar etapa)](insertar-enlace-aqui)
