@@ -1,6 +1,6 @@
 # Bibliografía
 
-## Mateo 14:25-32 [(volver)](/preadolescentes/miedos/sesion1.md#la-importancia-de-pedro)
+## Mateo 14:25-32
 
 > A eso de las tres de la madrugada, Jesús se acercó a ellos caminando sobre el agua. Cuando los discípulos lo vieron caminar sobre el agua, quedaron aterrados. Llenos de miedo, clamaron:
 >
@@ -23,3 +23,5 @@
 >De inmediato, Jesús extendió la mano y lo agarró.
 >
 >&emsp;—Tienes tan poca fe —le dijo Jesús—. ¿Por qué dudaste de mí? Cuando subieron de nuevo a la barca, el viento se detuvo.
+
+[Volver a la sesión](/preadolescentes/miedos/sesion1.md#la-importancia-de-pedro)
